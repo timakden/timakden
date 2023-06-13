@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👨🏻‍💻 Enthusiastic and well-organized Java developer with 9+ years of experience
+- 🧹 Passionate about clean code and SOLID principles
+- ⚙️ My tech stack includes (but not limited to) Kotlin, Java, Spring, Spring Boot, Docker, Camunda BPM, Kafka, and k8s
+- 📚 I’m currently learning Haskell and FP in general
+- 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
 
 <!--
 **timakden/timakden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
