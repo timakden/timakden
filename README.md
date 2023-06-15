@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I’m Denis 👋
 - 👨🏻‍💻 Enthusiastic and well-organized Java developer with 9+ years of experience
 - 🧹 Passionate about clean code and SOLID principles
-- ⚙️ My tech stack includes (but not limited to) Kotlin, Java, Spring, Spring Boot, Docker, Camunda BPM, Kafka, and k8s
+- ⚙️ My tech stack includes (but not limited to) Kotlin, Java, Spring, Spring Boot, Docker, Camunda BPM, and Kafka
 - 📚 I’m currently learning Haskell and FP in general
 - 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
 
