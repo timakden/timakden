@@ -4,6 +4,7 @@
 - ⚙️ My tech stack includes (but not limited to) Kotlin, Java, Spring, Spring Boot, Docker, and Kafka
 - 📚 I’m currently learning Haskell and FP in general
 - 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
+- 📜 [CV](https://github.com/timakden/timakden/files/11753827/CV.pdf)
 
 <!--
 **timakden/timakden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[CV.pdf](https://github.com/timakden/timakden/files/11753827/CV.pdf)
