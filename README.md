@@ -5,7 +5,7 @@
 - 📚 I’m currently learning Haskell and FP in general
 - 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
 - 📜 [CV](https://github.com/timakden/timakden/files/11753827/CV.pdf)
-- ♟️ I occasionally play chess on chess.com, feel free to [challenge](https://play.chess.com/hZobz) me on a rated 1-day game
+- ♟️ I occasionally play chess, feel free to [challenge](https://play.chess.com/hZobz) me on a rated 1-day game
 
 <!--
 **timakden/timakden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
