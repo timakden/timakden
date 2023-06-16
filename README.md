@@ -5,7 +5,7 @@
 - 📚 I’m currently learning Haskell and FP in general
 - 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
 - 📜 [CV](https://github.com/timakden/timakden/files/11753827/CV.pdf)
-- ♟️ I occasionally play chess, feel free to [challenge](https://play.chess.com/hZobz) me on a rated 1-day game
+- ♟️ I occasionally play chess, feel free to [challenge](https://www.chess.com/member/timakden) me on a game or two
 - 🦉 I also like birding, you can visit my [eBird profile](https://ebird.org/profile/MjY5Nzk0NA) to see my checklists
 
 <!--
