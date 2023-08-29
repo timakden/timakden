@@ -2,7 +2,6 @@
 - 👨🏻‍💻 Enthusiastic and well-organized Java developer with 9+ years of experience
 - 🧹 Passionate about clean code and SOLID principles
 - ⚙️ My tech stack includes (but not limited to) Kotlin, Java, Spring, Spring Boot, Docker, and Kafka
-- 📚 I’m currently learning Haskell and FP in general
 - 📫 You can reach me via [email](mailto:timakden88@gmail.com) or [Telegram](https://t.me/timakden)
 - 📜 [CV](https://github.com/timakden/timakden/files/11753827/CV.pdf)
 - ♟️ I occasionally play chess, feel free to [challenge](https://www.chess.com/member/timakden) me on a game or two
